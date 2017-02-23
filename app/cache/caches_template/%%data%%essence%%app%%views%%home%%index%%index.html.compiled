@@ -1,0 +1,6 @@
+<div id="cms-router">
+    <cms-header></cms-header>
+    <router-view></router-view>
+    <!-- Left side column. contains the logo and sidebar -->
+</div>
+
